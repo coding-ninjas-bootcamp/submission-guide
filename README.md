@@ -29,10 +29,16 @@ We will be using Git to manage and review your assignments. Please follow this g
 4. After you are done with your assignment, push `solution` branch to GitHub
 
    ```sh
+   git push --set-upstream origin solution
+
    git push
    ```
 
 5. Create a PR (Pull Request)
+
+   <img src="./images/create-pr-1.png" height="500" />
+
+   <img src="./images/create-pr-2.png" height="500" />
 
 6. Wait your instructor for code review
 
