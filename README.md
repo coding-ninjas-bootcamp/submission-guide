@@ -40,7 +40,7 @@ We will be using Git to manage and review your assignments. Please follow this g
 
    <img src="./images/create-pr-2.png" height="500" />
 
-6. Wait your instructor for code review
+6. Please do NOT merge it by yourself. Wait your instructor for code review
 
 7. If your instructor believes your code can be improved, he/she will leave some comments and suggestions during code review
 
